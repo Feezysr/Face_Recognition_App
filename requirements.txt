@@ -18,7 +18,7 @@ lz4==4.4.3
 MarkupSafe==3.0.2
 mtcnn==1.0.0
 narwhals==1.32.0
-numpy==2.2.4
+numpy==1.26.4
 opencv-python==4.11.0.86
 packaging==24.2
 pandas==2.2.3
