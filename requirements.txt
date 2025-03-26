@@ -45,4 +45,3 @@ gunicorn
 uvicorn
 scipy==1.12.0
 
-
